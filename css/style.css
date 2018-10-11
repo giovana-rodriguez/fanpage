@@ -13,27 +13,49 @@ a {
 
 .main {
     height: 100%;
+    
 }
 .social-image{
     width: 30px;
     margin: 15px;
+    
 }
 .header {
     display:flex;
     justify-content:center;
     font-size:45px;
+    background-color: #d9ccff;
+    color:Purple;
     
 }
 
 .navbar {
    display:flex; 
    justify-content:space-around;
-   background-color:#e6b3cc;
+   background-color:#33ccff;
+   font-size: 25px;
 
 }
 .footer {
     display:flex;
     justify-content:space-around;
+    background-color: 
+}
+
+.leftPane {
+    width:700px;
+    
+}
+.gallery{
+    display:flex;
+    justify-content:space-between;
+    width:380px;
+    height:240px;
+    
+}
+
+.thumbnail {
+    margin:40px;
 }
     
 
